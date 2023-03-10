@@ -44,5 +44,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-square&logo=MySql&logoColor=white"/> 
 </p>
-
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeYooooon&layout=compact)](https://github.com/JaeYooooon/github-readme-stats)
+-->
 </div>
