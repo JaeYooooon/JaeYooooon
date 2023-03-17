@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=JaeYooooon&show_icons=true&theme=cobalt&include_all_commits=true"/>
 </a>
 
-  
 ## 🛠 Skill & Tools 📚
 <p>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-square&logo=java&logoColor=white"> 
@@ -35,8 +34,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-square&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/BootStrap-7952B3?style=for-the-square&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-square&logo=SpringBoot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-square&logo=MySql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-square&logo=github&logoColor=white">
 </p>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeYooooon&layout=compact)](https://github.com/JaeYooooon/github-readme-stats)
