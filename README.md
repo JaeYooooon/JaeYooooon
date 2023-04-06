@@ -21,9 +21,13 @@ Here are some ideas to get you started:
 <a href="https://opgc.me/#/users/JaeYooooon" target="_blank">
 <img align="center" width="45%" height="160px" src="https://api.opgc.me/githubs/users/JaeYooooon/tag/?theme=prism" alt="rank" />
 </a>
+
 <a href="https://github.com/JaeYooooon">
-<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=JaeYooooon&show_icons=true&theme=cobalt&include_all_commits=true"/>
+
+<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=JaeYooooon&show_icons=true&theme=cobalt"/>
+
 </a>
+
 <!--
 ## 📚 Tech Stack 📚
     -->
