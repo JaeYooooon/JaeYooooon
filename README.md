@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=JaeYoon's%20GitHub&fontAlign=50&fontAlignY=63&fontSize=90&fontColor=e6e6fa  )
 
-## 📊 Stats 📊
+## 📊 Github Stats 📊
 <a href="https://opgc.me/#/users/JaeYooooon" target="_blank">
 <img align="center" width="45%" height="160px" src="https://api.opgc.me/githubs/users/JaeYooooon/tag/?theme=prism" alt="rank" />
 </a>
