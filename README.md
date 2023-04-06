@@ -25,35 +25,67 @@ Here are some ideas to get you started:
 <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=JaeYooooon&show_icons=true&theme=cobalt&include_all_commits=true"/>
 </a>
 
-## 🛠 Skill & Tools 📚
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-square&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=for-the-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-square&logo=css3&logoColor=white">
-</p>
-<p>
-  <img src="https://img.shields.io/badge/BootStrap-7952B3?style=for-the-square&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-square&logo=SpringBoot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-square&logo=jquery&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/MySQL-666666?style=for-the-square&logo=MySql&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-square&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-FE7A16?style=for-the-square&logo=eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-square&logo=visual-studio-code&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-square&logo=gradle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-square&logo=Apache%20Maven&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-square&logo=github&logoColor=white"/>
-</p>
+## 📚 Tech Stack 📚
+  <br>
+  <p> 
+    <p> ✨ Platforms & Languages ✨ </p>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-square&logo=Conda-Forge&logoColor=white"> 
+    <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=for-the-square&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-square&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-square&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/BootStrap-7952B3?style=for-the-square&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-square&logo=SpringBoot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-square&logo=jquery&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-square&logo=MySql&logoColor=white"/>
+  </p>
+  <br>
+  <p>
+    <p> 🛠 Tools 🛠 </p>
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-square&logo=intellijidea&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Eclipse-FE7A16?style=for-the-square&logo=eclipse&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-square&logo=visual-studio-code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-square&logo=gradle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-square&logo=Apache%20Maven&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-square&logo=github&logoColor=white"/>
+  </p>
+
+</div>
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeYooooon&layout=compact)](https://github.com/JaeYooooon/github-readme-stats)
--->
+
+
+```
+class Profile {
+    static final String USERNAME = "JaeYoooon";
+    static final Map<TechStack, String> TECH_STACK_MAP = Map.of(
+     
+        Backend, Set.of(
+            "java", "Spring Boot", "JPA", "myBatis"
+        ),
+            
+        Frontend, Set.of(
+            "jsp", "JQuery",
+            "HTML", "CSS", "BootStrap"
+        ),
+            
+        Database, Set.of(
+            "Mysql"
+        )
+        
+        ETC, Set.of(
+            "GitHub", "Slack",
+            "IntelliJIDEA", "Eclipse", "VisualStudioCode"
+        )
+    );
+}
+```-->
+
+
+<div align="center">
+  <br>
+  
+  ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
+  
 </div>
