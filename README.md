@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 ## 📊 Github Stats 📊
 <a href="https://opgc.me/#/users/JaeYoo ooon" target="_blank">
-<img align="center" width="45%" height="160px" src="https:/
-                                                    /api.opgc.me/githubs/users/JaeYooooon/tag/?theme=prism" alt="rank" />
+<img align="center" width="45%" height="160px" src="https://api.opgc.me/githubs/users/JaeYooooon/tag/?theme=prism" alt="rank" />
 </a>
 
 <a href="https://github.com/JaeYooooon">
