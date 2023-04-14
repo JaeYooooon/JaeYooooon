@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/JaeYooooon">
-
-<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=JaeYooooon&show_icons=true&theme=cobalt"/>
-
+    
+<!-- <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=JaeYooooon&show_icons=true&theme=cobalt"/> -->
+<img align="center" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JaeYooooon&&show_icons=true&theme=cobalt"/>
 </a>
 
 <!--
