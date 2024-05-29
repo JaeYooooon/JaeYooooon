@@ -1,6 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=JaeYoon's%20GitHub&fontAlign=50&fontAlignY=63&fontSize=90&fontColor=FE9A2E)
 
 
 
@@ -58,7 +57,5 @@ class Profile {
 
 
 <div align="center">
-    
-  ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient)
     
 </div>
