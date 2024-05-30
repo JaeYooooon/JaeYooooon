@@ -1,18 +1,6 @@
 <div align="center">
-
-
-
-
-<a href="https://opgc.me/#/users/JaeYooooon" target="_blank">
-<img align="center" width="45%" height="160px" src="https://api.opgc.me/githubs/users/JaeYooooon/tag/?theme=prism" alt="rank" />
-</a>
-
-
-<a href="https://github.com/JaeYooooon">
-    
-<img align="center" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JaeYooooon&&show_icons=true&theme=cobalt"/>
-</a>
-<br><br>
+    <h3>📚 Tech Stack 📚</h3>
+    <br>
   <p> 
       <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Spring Boot-000000?style=flat-square&logo=Spring Boot&logoColor=6DB33F"/></a>
@@ -23,6 +11,17 @@
       <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=#181717"/></a>
       <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=intellijidea&logoColor=#000000"/></a>
   </p>
+
+</a>
+<br>
+<a href="https://opgc.me/#/users/JaeYooooon" target="_blank">
+<img align="center" width="45%" height="160px" src="https://api.opgc.me/githubs/users/JaeYooooon/tag/?theme=prism" alt="rank" />
+</a>
+
+
+<a href="https://github.com/JaeYooooon">
+    
+<img align="center" width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JaeYooooon&&show_icons=true&theme=cobalt"/>
 </div>
 
 <!--
@@ -55,7 +54,5 @@ class Profile {
 }
 ```-->
 
-
 <div align="center">
-    
 </div>
