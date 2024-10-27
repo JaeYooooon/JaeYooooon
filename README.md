@@ -1,4 +1,4 @@
-<div align="center">
+<!--<div align="center">
     <h3>📚 Tech Stack 📚</h3>
     <br>
   <p> 
